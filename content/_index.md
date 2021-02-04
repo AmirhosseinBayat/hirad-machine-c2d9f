@@ -33,7 +33,7 @@ sections:
       - content/category/cactuses.md
   - type: testimonials_section
     section_id: testimonials_section
-    title: ''
+    title: نظرات مشتی
     testimonials:
       - author:
           name: John Dope
