@@ -10,7 +10,11 @@ params:
   bg_image_secondary: /images/leaf-light-grey.svg
   bg_image_product: /images/leaf.svg
   snipcart_api_key: ''
-  footer_text: Copyright 2021 Planty Inc. All rights reserved.
+  footer_text: >-
+    کليه حقوق محصولات و محتوای اين سایت متعلق به گروه صنعتی هیراد ماشین می باشد
+    و هر گونه کپی 
+
+    برداری از محتوا و محصولات سایت غیر مجاز و بدون رضایت ماست
   palette: green
   main_menu:
     - title: محصولات
