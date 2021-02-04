@@ -19,7 +19,7 @@ params:
     - title: درباره ما
       url: /about
       style: link
-    - title: FAQ
+    - title: ''
       url: /faq
       style: link
 taxonomies:
