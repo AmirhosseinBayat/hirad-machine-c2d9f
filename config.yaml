@@ -16,7 +16,7 @@ params:
     - title: محصولات
       url: /store
       style: link
-    - title: About
+    - title: درباره ما
       url: /about
       style: link
     - title: FAQ
