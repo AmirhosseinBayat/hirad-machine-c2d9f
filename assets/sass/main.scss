@@ -10,6 +10,7 @@ $color_active:        #88dd9b;
 $color_active_light:  #c0fdb6;
 $color_active_medium: #5c9174;
 $color_active_dark:   #547567;
+$font-path: "/font";
 
 // Alternative palettes
 $theme_palettes: (
@@ -39,9 +40,14 @@ $theme_palettes: (
   )
 );
 
+@font-face{
+    font-family: "iran yekan";
+    src: url("#{$font-path}/iranyekanwebregular.woff2") format("woff2");
+}
+
 // Font family
-$font_family_primary:   'Open Sans', sans-serif;
-$font_family_secondary: 'Lato', sans-serif;
+$font_family_primary:   'iran yekan', 'Open Sans', sans-serif;
+$font_family_secondary: 'iran yekan', 'Lato', sans-serif;
 
 // Font sizes
 $font_size_xxlarge: 64px;

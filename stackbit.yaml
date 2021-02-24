@@ -88,8 +88,8 @@ models:
             name: footer_text
   home:
     type: page
-    label: Home
-    layout: home
+    label: هیراد صنعت
+    layout: خانه
     hideContent: true
     file: _index.md
     singleInstance: true
